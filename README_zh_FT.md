@@ -1,8 +1,8 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://public-zkeq.oss-cn-beijing.aliyuncs.com/ac.svg)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
+[![PRs Welcome](https://public-zkeq.oss-cn-beijing.aliyuncs.com/pr.svg)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
 **How To Ask Questions The Smart Way**
 
