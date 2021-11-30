@@ -1,4 +1,7 @@
 # 提问的智慧
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://public-zkeq.oss-cn-beijing.aliyuncs.com/ac.svg)](#contributors-✨)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://public-zkeq.oss-cn-beijing.aliyuncs.com/pr.svg)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
 **How To Ask Questions The Smart Way**
@@ -670,3 +673,65 @@ Jeff Bigler 的观察总结和这个相关也值得一读 (**[tact filters](http
 ## 鸣谢
 
 Evelyn Mitchel 贡献了一些愚蠢问题例子并启发了编写`如何更好地回答问题`这一节， Mikhail Ramendik 贡献了一些特别有价值的建议和改进。
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://fredwe.info"><img src="https://avatars.githubusercontent.com/u/7354718?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fred</b></sub></a><br /><a href="#translation-FredWe" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/xgdgsc"><img src="https://avatars.githubusercontent.com/u/1189869?v=4?s=100" width="100px;" alt=""/><br /><sub><b>xgdgsc</b></sub></a><br /><a href="#translation-xgdgsc" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/fishballLin"><img src="https://avatars.githubusercontent.com/u/11352791?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Lin</b></sub></a><br /><a href="#translation-fishballLin" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/cuter44"><img src="https://avatars.githubusercontent.com/u/2285039?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Galin Wu</b></sub></a><br /><a href="#translation-cuter44" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://blog.csdn.net/lantianjialiang/"><img src="https://avatars.githubusercontent.com/u/4327697?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lantianjialiang</b></sub></a><br /><a href="#translation-lantianjialiang" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://linuxtoy.org"><img src="https://avatars.githubusercontent.com/u/15364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xiaodong Xu</b></sub></a><br /><a href="#translation-xuxiaodong" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://blog.clifflu.net"><img src="https://avatars.githubusercontent.com/u/1589313?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cliff Chao-kuan Lu</b></sub></a><br /><a href="#translation-clifflu" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Fibird"><img src="https://avatars.githubusercontent.com/u/12209558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chaoyang Liu</b></sub></a><br /><a href="#translation-Fibird" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.rayjune.com/about"><img src="https://avatars.githubusercontent.com/u/22052875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>瑞君</b></sub></a><br /><a href="#translation-RayJune" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/lvsj"><img src="https://avatars.githubusercontent.com/u/5672080?v=4?s=100" width="100px;" alt=""/><br /><sub><b>steven lyu</b></sub></a><br /><a href="#translation-lvsj" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://linkedin.com/in/yen-wu"><img src="https://avatars.githubusercontent.com/u/11289349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yan-Kuan Wu</b></sub></a><br /><a href="#translation-yan-kuan" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Kalger"><img src="https://avatars.githubusercontent.com/u/15393585?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alger</b></sub></a><br /><a href="#translation-Kalger" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/HJ1AN"><img src="https://avatars.githubusercontent.com/u/10445159?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HJ1AN</b></sub></a><br /><a href="#translation-HJ1AN" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://konekoya.github.io/"><img src="https://avatars.githubusercontent.com/u/12165714?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joshua</b></sub></a><br /><a href="#translation-konekoya" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://splasky.blogspot.com/"><img src="https://avatars.githubusercontent.com/u/14876069?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HY Chang(splasky)</b></sub></a><br /><a href="#translation-splasky" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/SaberPdr"><img src="https://avatars.githubusercontent.com/u/18625830?v=4?s=100" width="100px;" alt=""/><br /><sub><b>qiuqiu</b></sub></a><br /><a href="#translation-SaberPdr" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://a.dqwyy.moe"><img src="https://avatars.githubusercontent.com/u/20705919?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dqwyy</b></sub></a><br /><a href="#translation-dqwyy" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://tomazwang.github.io"><img src="https://avatars.githubusercontent.com/u/7992586?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tomaz Wang</b></sub></a><br /><a href="#translation-TomazWang" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://aka.ms/anduin"><img src="https://avatars.githubusercontent.com/u/19531547?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anduin Xue</b></sub></a><br /><a href="#translation-Anduin2017" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Pancongwen"><img src="https://avatars.githubusercontent.com/u/25834392?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Pancongwen</b></sub></a><br /><a href="#translation-Pancongwen" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://cis.upenn.edu/~yishuai/"><img src="https://avatars.githubusercontent.com/u/7020805?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yishuai Li</b></sub></a><br /><a href="#translation-liyishuai" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/FranklinYu"><img src="https://avatars.githubusercontent.com/u/3153452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Franklin Yu</b></sub></a><br /><a href="#translation-FranklinYu" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://ld246.com"><img src="https://avatars.githubusercontent.com/u/873584?v=4?s=100" width="100px;" alt=""/><br /><sub><b>D</b></sub></a><br /><a href="#translation-88250" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://flandre.tw/github"><img src="https://avatars.githubusercontent.com/u/5981459?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chun-Hao Lien</b></sub></a><br /><a href="#translation-FlandreDaisuki" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/hms5232"><img src="https://avatars.githubusercontent.com/u/43672033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>hms5232</b></sub></a><br /><a href="#translation-hms5232" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://gricn.github.io"><img src="https://avatars.githubusercontent.com/u/34237589?v=4?s=100" width="100px;" alt=""/><br /><sub><b>gricn</b></sub></a><br /><a href="#translation-gricn" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://zoomdong.cn/"><img src="https://avatars.githubusercontent.com/u/32598811?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zoomdong</b></sub></a><br /><a href="#translation-fireairforce" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://ladderoperator.top/"><img src="https://avatars.githubusercontent.com/u/34033754?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LadderOperator</b></sub></a><br /><a href="#translation-LadderOperator" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/WuzgXY-GitHub"><img src="https://avatars.githubusercontent.com/u/62000315?v=4?s=100" width="100px;" alt=""/><br /><sub><b>WuzgXY</b></sub></a><br /><a href="#translation-WuzgXY-GitHub" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://baoshuo.ren"><img src="https://avatars.githubusercontent.com/u/47095648?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ren Baoshuo</b></sub></a><br /><a href="#translation-renbaoshuo" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://jalenchuh.cn/"><img src="https://avatars.githubusercontent.com/u/57910033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jalen</b></sub></a><br /><a href="#translation-jalenchuh" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://www.libiao.vip"><img src="https://avatars.githubusercontent.com/u/8528590?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BillLucky</b></sub></a><br /><a href="#translation-BillLucky" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://blog.mcplugin.cn"><img src="https://avatars.githubusercontent.com/u/56964531?v=4?s=100" width="100px;" alt=""/><br /><sub><b>bingchuanjuzi</b></sub></a><br /><a href="#translation-xiaopangju" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/hitjackma"><img src="https://avatars.githubusercontent.com/u/3788303?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jack M</b></sub></a><br /><a href="#translation-hitjackma" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://www.yidajiabei.xyz"><img src="https://avatars.githubusercontent.com/u/52186032?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tianheg</b></sub></a><br /><a href="#translation-tianheg" title="Translation">🌍</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

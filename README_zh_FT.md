@@ -1,6 +1,6 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://public-zkeq.oss-cn-beijing.aliyuncs.com/ac.svg)](#contributors-)
+[![All Contributors](https://public-zkeq.oss-cn-beijing.aliyuncs.com/ac.svg)](#contributors-✨)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://public-zkeq.oss-cn-beijing.aliyuncs.com/pr.svg)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
